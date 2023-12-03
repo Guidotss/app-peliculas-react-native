@@ -1,8 +1,8 @@
-import { View, Text } from 'react-native';
+import {View, Text} from 'react-native';
 export const DetailsScreen = () => {
   return (
     <View>
-        <Text>Details Screen</Text>
+      <Text style={{color: 'black'}}>Details Screen</Text>
     </View>
-  )
-}
+  );
+};
